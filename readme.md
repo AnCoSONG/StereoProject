@@ -14,4 +14,4 @@
 * left_correct:包含单目标定后畸变修复的图片
 * rectify: 包含双目标定矫正后的图像
 * disparity: 包含视差图
-* Report.pdf: 报告文件
+* Report_宋晋瑜_四川大学.pdf: 报告文件
