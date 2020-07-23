@@ -2,7 +2,9 @@
 
 ## 如何运行
 
-`git clone `本项目，运行notebook即可。
+`git clone `本项目，运行`报告.ipynb`即可。
+
+> 注意notebook内须从上到下依次运行
 
 ## 文件内容介绍
 
